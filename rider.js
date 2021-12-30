@@ -78,7 +78,7 @@ class Rider{
         myRider._x += myRider._speed;
     }
     upSpeed(){
-        myRider._speed +=5;
+        myRider._speed +=7;
     }
     drawRider(ctx) {
 
